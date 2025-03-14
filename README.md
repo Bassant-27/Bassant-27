@@ -5,36 +5,7 @@
 
 - 🎓 **Major:** Data Science and Artificial Intelligence  
 - 🌱 **Currently learning:** C#, C++, Python, Machine Learning  
-- 🚀 **Goal:** To become a Data Analyst  
-
----
-
-### 🛠️ Tech Stack
-**Programming Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white)
-
-**AI & Data Analysis Tools:**  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)
-![MLOps](https://img.shields.io/badge/MLOps-FF6F00?style=for-the-badge&logo=mlops&logoColor=white)
-
-**Web Development:**  
-![HTML5]
-![CSS3]
-![JavaScript]
-
-**Data Acquisition:**  
-- Web Scraping (Python, APIs)  
-- Network Analysis (Graph Theory)  
-
-**Dashboard Development:**  
-- Dash, Plotly  
-
----
+- 🚀 **Goal:** To become a Data Scientist   
 
 
 ### 🌟 Projects
