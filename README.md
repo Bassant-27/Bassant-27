@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Bassant 👋
 
-<!--
-**Bassant-27/Bassant-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Education
+**Zewail City of Science and Technology**
+B.Sc. Computer Science & Artificial Intelligence — Data Science Track
+Expected Graduation: 2027
 
-Here are some ideas to get you started:
+🌍 Based in Egypt | Open to internships (Summer 2026)  
+💡 Passionate about ML, Deep Learning, NLP & Computer Vision
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📚 Currently Learning
+- 🔹 Power BI & Advanced DAX (DEPI Program)
+- 🔹 MLOps & Model Deployment
+---
+
+## 🛠 Tech Stack
+`Python` `TensorFlow` `PyTorch` `Scikit-learn` `BERT` `Flask` `SQL` `Power BI`
+
+---
+
+## 🚀 Featured Projects
+- 🔬 **Skin Cancer Classification** — 96% accuracy with XAI (LIME & Grad-CAM)
+- 🌌 **ExoPlanet Hunter** — 99.2% accuracy, NASA Space Apps 2025
+- 🛡️ **Suspicious Prompt Detection** — 97% accuracy using fine-tuned BERT
+- 🛒 **Amanda Shopping Assistant** — Semantic search with BM25 + BERT
+- 🔐 **Network Intrusion Detection** — 91% accuracy, ensemble classifier
+
+---
+
+## 📫 Reach Me
+✉️ s-bassant.elsayed@zewailcity.edu.eg
